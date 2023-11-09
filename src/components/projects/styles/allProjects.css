@@ -3,14 +3,14 @@
 	flex-wrap: wrap;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	margin: 24px -35px;
 	justify-content: center;
 }
 
 .all-projects-project {
 	box-sizing: border-box;
 	padding: 10px;
-	width: 350px;
+	max-width: 320px;
+	width: 100%;
 	height: auto;
 }
 
