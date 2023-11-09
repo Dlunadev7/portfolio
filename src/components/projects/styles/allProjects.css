@@ -4,6 +4,7 @@
 	padding-top: 30px;
 	padding-bottom: 30px;
 	margin: 24px -35px;
+	justify-content: center;
 }
 
 .all-projects-project {
@@ -11,4 +12,10 @@
 	padding: 10px;
 	width: 350px;
 	height: auto;
+}
+
+@media screen and (min-width: 768px) {
+	.all-projects-container {
+		justify-content: start;
+	}
 }
