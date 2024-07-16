@@ -69,6 +69,15 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://ecosystem-menu-staging.vercel.app/",
 		},
+
+		{
+			title: "Novateva",
+			description:
+				"I was in charge of several front-end projects, both mobile and web, in Angular and React. I was able to move between frameworks without any problem thanks to the solid foundation I gained over the years in JavaScript, developing the company's own website, adding statistics to it with GTM and Facebook Pixel.",
+			logo: "./novateva_logo.jpeg",
+			linkText: "View Project",
+			link: "https://www.novateva.com/ES",
+		},
 	],
 };
 
